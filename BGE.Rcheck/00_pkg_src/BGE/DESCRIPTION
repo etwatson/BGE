@@ -1,0 +1,14 @@
+Package: BGE
+Type: Package
+Title: Modular scripts for Biology, Genetics, and Evolution
+Version: 0.1.0
+Author: Eric T. Watson
+Maintainer: Eric Watson <evodocwatson@gmail.net>
+Description: This is mainly a personal repository of functions developed and 
+  tested in various other projects, but which I see a good use for in future 
+  projects.
+License: GNU General Public License version 2
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2024-02-19 01:05:27 UTC; eric
